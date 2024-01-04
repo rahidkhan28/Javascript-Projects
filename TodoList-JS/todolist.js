@@ -10,13 +10,11 @@ btn.addEventListener('click',()=>{
 
 
 
-    let name = document.querySelector("#name").value
-    console.log(name);
-    td1.innerText=name
+    let title = document.querySelector("#title").value
+    td1.innerText=title
 
-    let age = document.querySelector("#age").value
-    console.log(age);
-    td2.innerText=age
+    let desc = document.querySelector("#desc").value
+    td2.innerText=desc
 
 
     td3.appendChild(btn)
