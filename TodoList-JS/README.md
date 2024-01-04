@@ -1,1 +1,1 @@
-# This is my first Javascript project 
+# This is my first Javascript project - ToDoList
